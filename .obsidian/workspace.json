@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Rock Leaks/2025/1️⃣ Design System.md",
+                "file": "06. Lusca/2025/📰 Editorials & Pillars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1️⃣ Design System"
+              "title": "📰 Editorials & Pillars"
             }
           }
         ]
@@ -180,12 +180,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-livesync:Show Customization sync": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
   "active": "f39b644e89acef6a",
   "lastOpenFiles": [
+    "index.md",
+    "mlkdojova:index.md",
+    "01. Rock Leaks/2025/1️⃣ Design System.md",
+    "Untitled",
     "Untitled.canvas",
     "06. Lusca/2025/📰 Editorials & Pillars.md",
     "06. Lusca/2025/2️⃣ Social Media Content.md",
@@ -216,12 +220,9 @@
     "04. Gu Fontes/2025/7️⃣ Projects.md",
     "03. Nobu Records/About Us/🚪 General Acess.md",
     "04. Gu Fontes/About Us/🚪 General Acess.md",
-    "04. Gu Fontes/2025/🖥️ Dashboard.md",
-    "04. Gu Fontes/2025/5️⃣ Offline Media.md",
     "04. Gu Fontes/About Us",
     "04. Gu Fontes/2025",
     "04. Gu Fontes",
-    "02. Vox Blox/About Us",
     "00. Base Folder (Duplicate)/2025/Dashboard/Untitled.canvas"
   ]
 }

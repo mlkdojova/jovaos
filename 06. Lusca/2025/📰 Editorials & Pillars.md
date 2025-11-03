@@ -1,5 +1,5 @@
 Welcome to the **Editorials** page.  
-Here you’ll find all the main content pillars that guide the social media presence of **Lusca** — connecting music, mindset, lifestyle, and artistic vision into a single narrative.
+Here you’ll find all the main content pillars that guide the social media presence of **Lusca**, connecting music, mindset, lifestyle, and artistic vision into a single narrative.
 
 ---
 
