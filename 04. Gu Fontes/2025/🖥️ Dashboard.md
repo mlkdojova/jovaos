@@ -3,7 +3,7 @@ Here you can find the full structure from design system to media content, all co
 
 ---
 
-## 🧭 Read Me  
+## 🧭 Read Me
 
 🏁 Hi! [complete with name client] is a [about].  
 This project was created in [date/year] by [CEO].  
