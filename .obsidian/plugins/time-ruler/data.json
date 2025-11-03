@@ -6,7 +6,9 @@
   "inbox": null,
   "search": "",
   "taskSearch": "",
-  "fileOrder": [],
+  "fileOrder": [
+    "schedule.md"
+  ],
   "customStatus": {
     "include": false,
     "statuses": "-"
