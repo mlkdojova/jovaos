@@ -1,4 +1,11 @@
 [
   "obsidian-livesync",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "obsidian-icon-folder",
+  "quickadd",
+  "task-list-kanban",
+  "obsidian-tasks-plugin",
+  "time-ruler",
+  "templater-obsidian"
 ]

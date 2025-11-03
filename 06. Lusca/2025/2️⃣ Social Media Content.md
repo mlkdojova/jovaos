@@ -6,7 +6,7 @@ This is where we manage and organize all posts, stories, and campaign materials 
 ## ⚙️ Structure  
 
 📆 **Content Calendar**  
-Main posting plan and schedule.  
+Main posting plan and [[schedule]].  
 
 🧠 **Concepts & Strategy**  
 - 🧾 [[📰 Editorials & Pillars]]
