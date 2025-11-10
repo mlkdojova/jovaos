@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tasks",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "documents",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "backlog",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0945319889589349,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 0.520379234851015,
+  "lineSizeMultiplier": 0.633656165349364,
+  "collapse-forces": false,
+  "centerStrength": 0.280752532561505,
+  "repelStrength": 9.3339270473858,
+  "linkStrength": 0.609670117629597,
+  "linkDistance": 135,
+  "scale": 0.9670095356452427,
   "close": true
 }
